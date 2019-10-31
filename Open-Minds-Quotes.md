@@ -12,3 +12,8 @@ Feel free to contribute to this project directly via a pull request.
 ## Adding a new quote
 
 ** An important attribute of success is to be yourself. Never hide what makes you, YOU** by Indra Nooyi
+
+## Adding a new quote
+
+**Vision without action is merely a dream. Action without vision is merely passing time. But vision and action together can change the world.** by Sudha Murty
+
