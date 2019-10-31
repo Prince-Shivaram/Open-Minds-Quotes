@@ -11,7 +11,7 @@ Feel free to contribute to this project directly via a pull request.
 
 ## Adding a new quote
 
-** An important attribute of success is to be yourself. Never hide what makes you, YOU** by Indra Nooyi, CEO of PEPSICO
+**An important attribute of success is to be yourself. Never hide what makes you, YOU** by Indra Nooyi, CEO of PEPSICO
 
 ## Adding a new quote
 
