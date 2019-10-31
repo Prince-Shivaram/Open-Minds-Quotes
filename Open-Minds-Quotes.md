@@ -16,3 +16,7 @@ Feel free to contribute to this project directly via a pull request.
 ## Adding a new quote
 
 **Vision without action is merely a dream. Action without vision is merely passing time. But vision and action together can change the world.** by Sudha Murty, author and philanthropist
+
+## Adding a new quote
+
+**There will be many obstacles in the pursuit of your dreams. I had long hours of training, balancing studies and badminton.** by PV Sindhu, Indian professional badminton player
