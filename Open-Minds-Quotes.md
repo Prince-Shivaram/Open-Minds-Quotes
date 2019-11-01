@@ -20,3 +20,7 @@ Feel free to contribute to this project directly via a pull request.
 ## Adding a new quote
 
 **There will be many obstacles in the pursuit of your dreams. I had long hours of training, balancing studies and badminton.** by PV Sindhu, Indian professional badminton player
+
+##Adding a new quote
+
+**What you do not want done to yourself, do not do to others.** by Confucius, chinese philosopher
