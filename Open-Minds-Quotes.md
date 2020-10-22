@@ -19,4 +19,6 @@ Feel free to contribute to this project directly via a pull request.
 
 - **What you do not want done to yourself, do not do to others.** by Confucius, chinese philosopher
 
-- **The purpose of our lives is to be happy** by Dalai Lama, A Monk
+- **The purpose of our lives is to be happy.** by Dalai Lama, A Monk
+
+- **Don’t take rest after your first victory because if you fail in second, more lips are waiting to say that your first victory was just luck.** by APJ Abdul Kalam, Former President of India
