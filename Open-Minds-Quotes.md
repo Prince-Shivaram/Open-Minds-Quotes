@@ -22,3 +22,5 @@ Feel free to contribute to this project directly via a pull request.
 - **The purpose of our lives is to be happy.** by Dalai Lama, A Monk
 
 - **Don’t take rest after your first victory because if you fail in second, more lips are waiting to say that your first victory was just luck.** by APJ Abdul Kalam, Former President of India
+
+- **Live as if you were to die tomorrow. Learn as if you were to live forever.** by Mahatma Gandhi, Father of Indian Nation
