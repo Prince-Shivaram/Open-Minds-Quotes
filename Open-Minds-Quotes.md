@@ -24,3 +24,17 @@ Feel free to contribute to this project directly via a pull request.
 - **Don’t take rest after your first victory because if you fail in second, more lips are waiting to say that your first victory was just luck.** by APJ Abdul Kalam, Former President of India
 
 - **Live as if you were to die tomorrow. Learn as if you were to live forever.** by Mahatma Gandhi, Father of Indian Nation
+
+- **Imagination is more important than knowledge.** by Albert Einstein
+
+- **You cannot believe in God until you believe in yourself.** by Swami Vivekananda
+
+- **Without hurting anybody, we all tend to laugh at others' discomfort. When someone slips on a banana skin and falls it's funny.** by Shahrukh Khan
+
+- **Science is not only a disciple of reason but, also, one of romance and passion.** by Stephen Hawking
+
+- **The hardest thing when you think about focusing. You think focusing is about saying "Yes." No. Focusing is about saying "No." And when you say "No," you piss off people.** by Steve Jobs
+
+
+
+
