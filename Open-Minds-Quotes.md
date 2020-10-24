@@ -35,6 +35,9 @@ Feel free to contribute to this project directly via a pull request.
 
 - **The hardest thing when you think about focusing. You think focusing is about saying "Yes." No. Focusing is about saying "No." And when you say "No," you piss off people.** by Steve Jobs
 
+- **Success is no accident. It is hard work, perseverance, learning, studying, sacrifice and most of all, love of what you are doing or learning to do.** by Pele
+
+- **Never give up. People will always discount you, and you'll always get rejected. But set your sights high. Be boldly ambitious. Be relentless and never give up.** by Reshma Saujani
 
 
 
