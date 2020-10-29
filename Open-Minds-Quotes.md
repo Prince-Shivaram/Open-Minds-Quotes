@@ -41,4 +41,6 @@ Feel free to contribute to this project directly via a pull request.
 
 - **Absence of evidence is not evidence of absence.** by Martin Rees
 
+- **Somewhere, something incredible is waiting to be known.** by Carl Sagan
+
 
