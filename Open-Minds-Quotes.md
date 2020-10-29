@@ -39,5 +39,6 @@ Feel free to contribute to this project directly via a pull request.
 
 - **Never give up. People will always discount you, and you'll always get rejected. But set your sights high. Be boldly ambitious. Be relentless and never give up.** by Reshma Saujani
 
+- **Absence of evidence is not evidence of absence.** by Martin Rees
 
 
