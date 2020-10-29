@@ -46,3 +46,5 @@ Feel free to contribute to this project directly via a pull request.
 - **For small creatures such as we the vastness is bearable only through love.** by Carl Sagan
 
 - **We are what we believe we are.** by C. S. Lewis
+
+- **Computer Science is no more about computers than astronomy is about telescopes.** by Edsger W. Dijkstra
