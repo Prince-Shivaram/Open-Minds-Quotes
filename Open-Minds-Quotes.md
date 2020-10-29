@@ -43,4 +43,4 @@ Feel free to contribute to this project directly via a pull request.
 
 - **Somewhere, something incredible is waiting to be known.** by Carl Sagan
 
-
+- **For small creatures such as we the vastness is bearable only through love.** by Carl Sagan
