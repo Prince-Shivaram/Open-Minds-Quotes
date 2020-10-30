@@ -50,3 +50,5 @@ Feel free to contribute to this project directly via a pull request.
 - **We are what we believe we are.** by C. S. Lewis
 
 - **Computer Science is no more about computers than astronomy is about telescopes.** by Edsger W. Dijkstra
+
+- **The Pessimist Sees Difficulty In Every Opportunity. The Optimist Sees Opportunity In Every Difficulty.** by Winston Churchill
