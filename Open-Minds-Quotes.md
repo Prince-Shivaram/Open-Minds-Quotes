@@ -54,3 +54,5 @@ Feel free to contribute to this project directly via a pull request.
 - **Computer Science is no more about computers than astronomy is about telescopes.** by Edsger W. Dijkstra
 
 - **The Pessimist Sees Difficulty In Every Opportunity. The Optimist Sees Opportunity In Every Difficulty.** by Winston Churchill
+
+- **It’s Not Whether You Get Knocked Down, It’s Whether You Get Up.** by Vince Lombardi
