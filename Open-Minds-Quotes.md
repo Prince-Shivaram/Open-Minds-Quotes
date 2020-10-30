@@ -29,6 +29,8 @@ Feel free to contribute to this project directly via a pull request.
 
 - **You cannot believe in God until you believe in yourself.** by Swami Vivekananda
 
+- **If You Are Working On Something That You Really Care About, You Don’t Have To Be Pushed. The Vision Pulls You.** by Steve Jobs
+
 - **Don’t Let Yesterday Take Up Too Much Of Today.** by Will Rogers
 
 - **The Best Way To Get Started Is To Quit Talking And Begin Doing.** by Walt Disney
