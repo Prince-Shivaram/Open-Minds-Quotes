@@ -29,6 +29,8 @@ Feel free to contribute to this project directly via a pull request.
 
 - **You cannot believe in God until you believe in yourself.** by Swami Vivekananda
 
+- **The Best Way To Get Started Is To Quit Talking And Begin Doing.** by Walt Disney
+
 - **Without hurting anybody, we all tend to laugh at others' discomfort. When someone slips on a banana skin and falls it's funny.** by Shahrukh Khan
 
 - **Science is not only a disciple of reason but, also, one of romance and passion.** by Stephen Hawking
