@@ -29,6 +29,8 @@ Feel free to contribute to this project directly via a pull request.
 
 - **You cannot believe in God until you believe in yourself.** by Swami Vivekananda
 
+- **Don’t Let Yesterday Take Up Too Much Of Today.** by Will Rogers
+
 - **The Best Way To Get Started Is To Quit Talking And Begin Doing.** by Walt Disney
 
 - **Without hurting anybody, we all tend to laugh at others' discomfort. When someone slips on a banana skin and falls it's funny.** by Shahrukh Khan
