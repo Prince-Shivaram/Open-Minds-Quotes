@@ -58,3 +58,5 @@ Feel free to contribute to this project directly via a pull request.
 - **The Pessimist Sees Difficulty In Every Opportunity. The Optimist Sees Opportunity In Every Difficulty.** by Winston Churchill
 
 - **It’s Not Whether You Get Knocked Down, It’s Whether You Get Up.** by Vince Lombardi
+
+- **If an ant carries an object a hundred times its weight, you can carry burdens many times your size.** by Matshona Dhliwayo
